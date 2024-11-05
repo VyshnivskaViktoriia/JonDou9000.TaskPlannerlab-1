@@ -1,0 +1,12 @@
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb

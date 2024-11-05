@@ -1,0 +1,24 @@
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe.config
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.dll
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.pdb
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou90.245FD9C1.Up2Date
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+C:\Users\Inna\Desktop\3 курс\.net\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe.config
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.dll
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.pdb
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.csproj.CopyComplete
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.exe
+C:\Users\Viktoria\Desktop\JonDou9000.TaskPlannerlab-1-main\second lab1\JonDou9000.TaskPlanner.ConsoleRunner\obj\Debug\JonDou9000.TaskPlanner.ConsoleRunner.pdb
